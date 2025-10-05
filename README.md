@@ -3,7 +3,6 @@
 - 🔭 N/A
 - 🌱 Python,MySQL
 - 📫 E-mail Para Contato: fo442672@gmail.com
-- 😄 Pronouns: Ele/Dele
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
