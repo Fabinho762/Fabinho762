@@ -1,7 +1,7 @@
 ## Oi Eu sou Fabiano 
 
 - 🔭 Estudante
-- 🌱 Python,MySQL
+- 🌱 Python,SQL
 - 📫 E-mail Para Contato: fo442672@gmail.com
 
 <div style="display: inline_block">
